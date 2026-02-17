@@ -30,9 +30,15 @@ I’m a **Software Engineer and Team Technical Lead** with extensive experience 
 
 ## 🚀 Stats
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="720px"/>
-</p>
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=juliancnn&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide=stars)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=juliancnn&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats) 
+
+
+
+
+
 
 ---
 
