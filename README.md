@@ -30,26 +30,20 @@ I’m a **Software Engineer and Team Technical Lead** with extensive experience 
 
 ## 🚀 Stats
 
+<p align="center"
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=juliancnn&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide=stars&include_all_commits=true" />
+</a>
+</br>
+</br>
+<a href="https://github.com/Pranesh-2005/github-readme-stats"">
+  <img height=300 align="center" src="https://streak-stats.demolab.com?user=juliancnn&theme=dark&exclude_days=Sun%2CSat" />
+</a>
+</p>
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=juliancnn&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&hide=stars)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=juliancnn&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats) 
-
-
-
-
-
-
----
-
-## 🔧 Tech Stack
-
-- **Languages:** C++, Go, Java  
-- **Platforms:** Linux, GitHub  
-- **Dev Tools:** Git, Docker, GitHub Actions, CI/CD  
-- **Areas:** Embedded systems, architecture design, performance engineering
 
 ---
+
 
 ## 📫 Connect With Me
 
